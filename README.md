@@ -1,7 +1,7 @@
 # SNU_kirigami
 
 Software code repos. for the research on stretchable piezoelectric strain sensor with kirigami pattern.
-(<a href="https://www.nature.com/articles/s41528-022-00186-4#Sec10">paper</a>)
+(<a href="https://www.nature.com/articles/s41528-022-00186-4">paper</a>)
 ## Matlab piezoelectric measurement simulator
 #### Some results from this work was included in our presentation at International Conference on Advanced Electromaterials, Jeju, Korea, 2021
 
