@@ -4,7 +4,7 @@ Software code repos. for the research on stretchable piezoelectric strain sensor
 
 ## Matlab piezoelectric measurement simulator
 
-### Some results from this work was included in our presentation at International Conference on Advanced Electromaterials, Jeju, Korea, 2021
+##### Some results from this work was included in our presentation at International Conference on Advanced Electromaterials, Jeju, Korea, 2021
 
 Some researches miss the importance of measurement device.
 Because piezoelectric generators(energy harvestor, sensors, etc.) contain its own resistance and capacitance,
