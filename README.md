@@ -23,5 +23,7 @@ Software code repos. for the research on stretchable piezoelectric strain sensor
 
 ## Measurement - Labview
 >Environment: Labview 2015 and compatible version of NI MAX, NI VISA
->Information about H/W is available on <a href="https://www.nature.com/articles/s41528-022-00186-4">paper</a> - Method
+>Information about H/W is available on <a href="https://www.nature.com/articles/s41528-022-00186-4#Sec10">paper</a> - Method
 
+## More Information
+##Motre information about the research also can be found on my <a href="https://seongheonhong.github.io/index.html">website</a>.
