@@ -26,7 +26,7 @@ Software code repos. for the research on stretchable piezoelectric strain sensor
 >Information about H/W is available on <a href="https://www.nature.com/articles/s41528-022-00186-4#Sec10">paper</a> - Method
 
 ## Application Glove - Max
->Max 8, Serial communication with PySerial via virtual COM port.
+>Max 8, Serial communication with PySerial via virtual COM port.   
 <img src="media/img/Max8_v1.png" width="40%" height="40%" title="Title"></img>
 ## More Information
 ##Motre information about the research also can be found on my <a href="https://seongheonhong.github.io/index.html">website</a>.
