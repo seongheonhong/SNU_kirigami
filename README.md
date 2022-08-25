@@ -1,9 +1,7 @@
 # SNU_kirigami
 
 Software code repos. for the research on stretchable piezoelectric strain sensor with kirigami pattern.
-
 ## Matlab piezoelectric measurement simulator
-
 #### Some results from this work was included in our presentation at International Conference on Advanced Electromaterials, Jeju, Korea, 2021
 
 >Because piezoelectric generators(energy harvestor, sensors, etc.) contain its own resistance and capacitance,
@@ -23,5 +21,7 @@ Software code repos. for the research on stretchable piezoelectric strain sensor
 <img src="/Matlab Simulation/media/img/Simul_prompt.png" width="40%" height="40%" title="Title"></img>
 <a href="/Matlab Simulation/PiezoSimul.m"><img src="/Matlab Simulation/media/img/Ex1.png" width="30%" height="30%" title="Title"></img></a>
 
-## Measurement - Labview Code
+## Measurement - Labview
+>Environment: Labview 2015 and compatible version of NI MAX, NI VISA
+>Information about H/W is available on <a href="https://www.nature.com/articles/s41528-022-00186-4">paper</a> - Method
 
