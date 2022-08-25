@@ -15,7 +15,7 @@ Software code repos. for the research on stretchable piezoelectric strain sensor
 
 >This simulator will show how voltage profile differs depending on measurement devices(or circuits) with different specs.
 >You can compare results of two cases below:
->>Case 1) R=144E3, C=350E-12: simulated NI-USB6009(Low price) DAQ and our sensor(simplified).
+  Case 1) R=144E3, C=350E-12: simulated NI-USB6009(Low price) DAQ and our sensor(simplified).
 >>Case 2) R=1E15,  C=2350E-12: simulated keithley 6514(Excellent quality) electrometer and our sensor(simplified).
 >>Case 3) R=100E6, C=2350E-12: simulated some mid-range voltmeters and our sensor.
 
