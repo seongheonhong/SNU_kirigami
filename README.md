@@ -30,7 +30,7 @@ Software code repos. for the research on stretchable piezoelectric strain sensor
 
 >Max 8: serial communication with PySerial via virtual COM port.   
 >Python: Establish BLE connection with glove module and process data. Then, transmit processed signal to Max8.
->__Sorry for untidy python code. I'll fix it up soon.__<br/>
+>__Sorry for untidy and uncommented python code. I'll fix it up soon.__<br/>
 <img src="media/img/Max8_v1.png" width="40%" height="40%" title="Title"></img>
 
 ## More Information
