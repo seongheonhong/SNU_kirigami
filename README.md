@@ -19,7 +19,7 @@ Software code repos. for the research on stretchable piezoelectric strain sensor
 >>Case 3) R=100E6, C=2350E-12: simulated some _mid-range voltmeters_ and our sensor.   
 
 >Then, you may find that case 2) shows higher and steady voltage-time profile than others.   
-<small>The default numerical solver option is implicit Runge-Kutta 4th order method(Gauss-Legendre quadrature)</small>
+<small>The default numerical solver option is _Implicit Runge-Kutta 4th order method(Gauss-Legendre quadrature)_</small>
 <img src="/Matlab Simulation/media/img/Simul_prompt.png" width="40%" height="40%" title="Title"></img>
 <a href="/Matlab Simulation/PiezoSimul.m"><img src="/Matlab Simulation/media/img/Ex1.png" width="30%" height="30%" title="Title"></img></a>
 
