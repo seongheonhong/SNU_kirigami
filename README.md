@@ -1,6 +1,7 @@
 # SNU_kirigami
 
 Software code repos. for the research on stretchable piezoelectric strain sensor with kirigami pattern.
+(<a href="https://www.nature.com/articles/s41528-022-00186-4#Sec10">paper</a>)
 ## Matlab piezoelectric measurement simulator
 #### Some results from this work was included in our presentation at International Conference on Advanced Electromaterials, Jeju, Korea, 2021
 
@@ -11,7 +12,7 @@ Software code repos. for the research on stretchable piezoelectric strain sensor
 >(e.g. NI-USB6009, Arduino UNO ADC, etc.)
 
 >This simulator will show how voltage profile differs depending on measurement devices(or circuits) with different specs.
->You can compare results of two cases below:
+>You can compare results of cases below:
 >>Case 1) R=144E3, C=350E-12: simulated _NI-USB6009(Low price)_ DAQ and our sensor(simplified).   
 >>Case 2) R=1E15,  C=2350E-12: simulated _Keithley 6514(Excellent quality)_ electrometer and our sensor(simplified).   
 >>Case 3) R=100E6, C=2350E-12: simulated some _mid-range voltmeters_ and our sensor.   
